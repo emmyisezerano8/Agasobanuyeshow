@@ -76,17 +76,16 @@
         Submit
       </button>
     </form>
-
       </section>
     </main>
   </div>
     <footer class="footer">
     <div class="footer-content">
       <p>
-       <base-transition> My Website❤️ 2025</base-transition>
+       <base-transition> My Website</base-transition>
       </p>
       </div>
-    </footer>
+    </footer>Enjoy With This Website❤️ 2025
 
 </template>
 
@@ -108,17 +107,19 @@ export default {
       signupForm: {
         name: "",
         email: "",
-        password: ""
+        password: "",
+        message: "" // to show messages
       }
     };
   },
   methods: {
     login() {
-      alert(`Logged in as ${this.loginForm.email}`);
+      alert(`Login is succesful`);
     },
     signup() {
-      alert(`Signed up as ${this.signupForm.name}`);
-    }
+      alert(`Sign up is succesful!`);
+    
+    } 
   }
 };
 </script>
