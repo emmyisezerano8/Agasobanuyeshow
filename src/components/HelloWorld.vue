@@ -4,9 +4,6 @@
       <img src="https://www.google.com/imgres?q=agasobanuyeshow&imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2Ffn7Z84nnl4RhFnswzU92faANJ3VMPvpOkQ8DWp3mF-a2SF-ziAXs--dGIFqZnlnY1jHxanRJiQ%3Ds900-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.youtube.com%2F%40agasobanuyeshow-h4o&docid=79gNj8l5WB1yMM&tbnid=H9IAwfcseCaRGM&vet=12ahUKEwi72cuunKiPAxV_dUEAHahhGe8QM3oECGYQAA..i&w=900&h=900&hcb=2&itg=1&ved=2ahUKEwi72cuunKiPAxV_dUEAHahhGe8QM3oECGYQAA" alt="Agasobanuyeshow Logo" class="logo" />
       <h1>Agasobanuyeshow</h1>
     </header>
-  <nav1> 
-    <button @click="open = '<a href="Home" target="_blank">Home</a>'">Home</button>
-   </nav1>
   <nav2>
     
       <button @click="view = 'firms'">Firms</button>

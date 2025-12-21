@@ -77,3 +77,11 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+@media (max-width: 600px) {
+nav1 {
+  pointer-events: none;
+}
+nav2 {
+  pointer-events: auto;
+}
+}
